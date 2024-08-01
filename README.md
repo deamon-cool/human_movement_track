@@ -16,4 +16,6 @@ The basic capabilities of the application include:
   <li>saving to a file the read values of the joint angle as a function of time with an accuracy of two decimal places</li>
 </ul>
 
-<!-- <img src="https://github.com/deamon-cool/human_movement_track/blob/master/IMAGES/main_page.jpg" width="30%"> -->
+
+<img src="https://github.com/deamon-cool/human_movement_track/blob/master/IMAGES/1bianary.png" width="30%">
+<img src="https://github.com/deamon-cool/human_movement_track/blob/master/IMAGES/1.png" width="30%">
