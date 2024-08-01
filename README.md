@@ -17,5 +17,5 @@ The basic capabilities of the application include:
 </ul>
 
 
-<img src="https://github.com/deamon-cool/human_movement_track/blob/master/1bianary.png" width="30%">
-<img src="https://github.com/deamon-cool/human_movement_track/blob/master/1.png" width="30%">
+<img src="https://github.com/deamon-cool/human_movement_track/blob/master/1bianary.png" width="50%">
+<img src="https://github.com/deamon-cool/human_movement_track/blob/master/1.png" width="50%">
